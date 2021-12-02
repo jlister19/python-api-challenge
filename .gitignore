@@ -1,7 +1,8 @@
 ```python
 # Adding config.py file.
 api_keys.py
-config.py
+WeatherPy/config.py
+VacationPy/config.py
 API_practice.ipynb
 random_numbers.ipynb
 ```
